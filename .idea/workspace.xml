@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b4556d72-71fb-4ad2-b7a4-884a7ebb8983" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/srcGetProfile.php" afterPath="$PROJECT_DIR$/srcGetProfile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HoneypotGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,9 +47,9 @@
       <file leaf-file-name="srcGetProfile.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/srcGetProfile.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="13" selection-start="881" selection-end="881" vertical-scroll-proportion="0.40927693" vertical-offset="0" max-vertical-offset="733">
+            <state line="20" column="18" selection-start="886" selection-end="886" vertical-scroll-proportion="0.40927693" vertical-offset="0" max-vertical-offset="733">
               <folding>
-                <marker date="1413214278000" expanded="true" signature="284:325" placeholder="SELECT * FRO..tblusers..." />
+                <marker date="1413214392000" expanded="true" signature="284:325" placeholder="SELECT * FRO..tblusers..." />
               </folding>
             </state>
           </provider>
@@ -588,9 +587,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/srcGetProfile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="881" selection-end="881" vertical-scroll-proportion="0.40927693" vertical-offset="0" max-vertical-offset="733">
+        <state line="20" column="18" selection-start="886" selection-end="886" vertical-scroll-proportion="0.40927693" vertical-offset="0" max-vertical-offset="733">
           <folding>
-            <marker date="1413214278000" expanded="true" signature="284:325" placeholder="SELECT * FRO..tblusers..." />
+            <marker date="1413214392000" expanded="true" signature="284:325" placeholder="SELECT * FRO..tblusers..." />
           </folding>
         </state>
       </provider>
