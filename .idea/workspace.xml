@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4556d72-71fb-4ad2-b7a4-884a7ebb8983" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/srcGetProfile.php" afterPath="$PROJECT_DIR$/srcGetProfile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HoneypotGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,10 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="thread.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="thread.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/thread.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="283" column="0" selection-start="8214" selection-end="8214" vertical-scroll-proportion="0.0" vertical-offset="3765" max-vertical-offset="4950">
+            <state line="283" column="0" selection-start="8214" selection-end="8214" vertical-scroll-proportion="0.6944444" vertical-offset="3720" max-vertical-offset="4950">
               <folding />
             </state>
           </provider>
@@ -44,21 +44,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="srcGetProfile.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="srcGetProfile.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/srcGetProfile.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="18" selection-start="886" selection-end="886" vertical-scroll-proportion="0.40927693" vertical-offset="0" max-vertical-offset="733">
+            <state line="20" column="18" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="405">
               <folding>
-                <marker date="1413214392000" expanded="true" signature="284:325" placeholder="SELECT * FRO..tblusers..." />
+                <marker date="1413219271000" expanded="true" signature="284:325" placeholder="SELECT * FRO..tblusers..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="srcPostMessage.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/srcPostMessage.php">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1170">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1860">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uploader.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uploader.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToDo.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ToDo.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
               <folding />
             </state>
           </provider>
@@ -76,7 +94,7 @@
       <file leaf-file-name="srcNewThread.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/srcNewThread.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="8" selection-start="2473" selection-end="2473" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="915">
+            <state line="50" column="8" selection-start="2473" selection-end="2473" vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="915">
               <folding />
             </state>
           </provider>
@@ -95,15 +113,6 @@
         <entry file="file://$PROJECT_DIR$/formChangePassword.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="srcChangePassword.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/srcChangePassword.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065">
               <folding />
             </state>
           </provider>
@@ -171,7 +180,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -192,6 +200,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,7 +258,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -264,12 +273,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37176725" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37176725" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -289,13 +298,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/srcChangePassword.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/thread.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="283" column="0" selection-start="8214" selection-end="8214" vertical-scroll-proportion="0.0" vertical-offset="3765" max-vertical-offset="4950">
@@ -305,9 +307,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/srcPostMessage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1170">
-          <folding />
-        </state>
+        <state line="29" column="0" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1170" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/showthread.php">
@@ -340,9 +340,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/srcChangePassword.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/formChangePassword.php">
@@ -354,9 +352,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/srcChangePassword.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thread.php">
@@ -375,9 +371,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/srcChangePassword.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thread.php">
@@ -500,28 +494,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/formLogin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/formChangePassword (Exemplaar met conflict van Nicho Goudeseune 2014-10-10).php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/formChangePassword.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ToDo.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
@@ -538,9 +515,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/srcChangePassword.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/srcRegister.php">
@@ -552,9 +527,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/srcPostMessage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1170">
-          <folding />
-        </state>
+        <state line="29" column="0" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1170" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/srcNewThread.php">
@@ -571,13 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="283" column="0" selection-start="8214" selection-end="8214" vertical-scroll-proportion="0.0" vertical-offset="3765" max-vertical-offset="4950">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/srcGetPicture.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
@@ -587,10 +553,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/srcGetProfile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="18" selection-start="886" selection-end="886" vertical-scroll-proportion="0.40927693" vertical-offset="0" max-vertical-offset="733">
+        <state line="20" column="18" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="405">
           <folding>
-            <marker date="1413214392000" expanded="true" signature="284:325" placeholder="SELECT * FRO..tblusers..." />
+            <marker date="1413219271000" expanded="true" signature="284:325" placeholder="SELECT * FRO..tblusers..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1860">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="757">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="283" column="0" selection-start="8214" selection-end="8214" vertical-scroll-proportion="0.6944444" vertical-offset="3720" max-vertical-offset="4950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formChangePassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
         </state>
       </provider>
     </entry>
